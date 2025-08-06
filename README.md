@@ -1,4 +1,4 @@
-# 📊 Pattern Recognition & Machine Learning – Team 59
+# 📊 Pattern Recognition & Machine Learning
 
 This repository contains the implementation of the final assignment for the course **Pattern Recognition & Machine Learning** at the School of Electrical and Computer Engineering, Aristotle University of Thessaloniki.
 
